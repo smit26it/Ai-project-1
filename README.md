@@ -3,6 +3,8 @@ Climate Change predictor
 ![image](https://github.com/user-attachments/assets/928fe172-de0a-4e71-9d60-01ec6f96f6f3)
 
 
+
+
 Data Summary:-
 
 The data contains temperature readings for a vast date range, from 1750 to 2015. This dataset specifically covers the global temperature combined, rather than solely the sea or land temperature. This was chosen because of the amount of comparitive analysis available on global combined temperature rather than the other two options in isolation.
