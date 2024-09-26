@@ -1,5 +1,6 @@
 # Ai-project-1
 Climate Change predictor
+![image](https://github.com/user-attachments/assets/928fe172-de0a-4e71-9d60-01ec6f96f6f3)
 
 
 Data Summary:-
