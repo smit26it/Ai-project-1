@@ -1,20 +1,22 @@
 # Ai-project-1
-Climate Change predictor
-![image](https://github.com/user-attachments/assets/928fe172-de0a-4e71-9d60-01ec6f96f6f3)
+Spam Email Detection using scikit-learn
+Introduction
+This project is a spam email detection system built using machine learning algorithms from scikit-learn. Spam emails can be a significant problem, and having an automated system to detect and filter them out can be invaluable.
 
+The model in this project is designed to detect various types of spam emails, making it versatile and useful for different email platforms and applications.
 
+Features
+Utilizes machine learning techniques from scikit-learn.
+Accurate detection spam emails.
+Requirements
+To run this project, you'll need the following:
 
-
-Data Summary:-
-
-The data contains temperature readings for a vast date range, from 1750 to 2015. This dataset specifically covers the global temperature combined, rather than solely the sea or land temperature. This was chosen because of the amount of comparitive analysis available on global combined temperature rather than the other two options in isolation.
-
-Source: http://berkeleyearth.org/data/
-
-Problem Statement:_
-
-Devastating environmental damage will only increase as the climate continues to change. It is (generally) proven that the climate is changing for the worse, but that isn't the main problem that was addressed with this piece of analysis. In this analysis, I wanted to be able to train a machine learning model that would tell us what the average temperature will be in 10, 50 or 100 years' time, so that we can map these temperatures back to the devastating effects of even a small amount of average temperature change.
-
-Solution:-
-
-I have used machine learning in the form of a simple linear regression to analyse this dataset and have trained the model to enable us to use it to predict the average combined temperature for any given year. This is a supervised form of machine learning, meaning that I trained it on the data we have available to us and based off of that data, the model has learnt how to predict the temperature for future dates.
+Python 3.x
+scikit-learn library
+Installation
+Clone this repository to your local machine:
+   git clone https://github.com/shukur-alom/Spam_mail_detector_using_ML.git
+Install the required Python libraries using pip:
+   pip install scikit-learn==0.22.1 
+Run The code
+   python spam.py
