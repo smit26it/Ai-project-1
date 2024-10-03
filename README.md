@@ -1,5 +1,5 @@
 # Ai-project-1
-**Spam Email Detection using scikit-learn**
+**Spam Email Detection**
 
 Introduction
 
