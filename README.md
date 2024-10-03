@@ -21,10 +21,6 @@ Python 3.x
 scikit-learn library
 
 Installation
-
-Clone this repository to your local machine:
-
-   git clone https://github.com/shukur-alom/Spam_mail_detector_using_ML.git
    
 Install the required Python libraries using pip:
 
