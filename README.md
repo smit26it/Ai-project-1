@@ -17,11 +17,19 @@ Requirements
 To run this project, you'll need the following:
 
 Python 3.x
+
 scikit-learn library
+
 Installation
+
 Clone this repository to your local machine:
+
    git clone https://github.com/shukur-alom/Spam_mail_detector_using_ML.git
+   
 Install the required Python libraries using pip:
+
    pip install scikit-learn==0.22.1 
+   
 Run The code
+
    python spam.py
