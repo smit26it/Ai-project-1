@@ -1,5 +1,6 @@
 # Ai-project-1
-**Spam Email Detection using scikit-learn****
+**Spam Email Detection using scikit-learn**
+
 Introduction
 
 This project is a spam email detection system built using machine learning algorithms from scikit-learn. Spam emails can be a significant problem, and having an automated system to detect and filter them out can be invaluable.
